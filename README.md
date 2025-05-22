@@ -32,8 +32,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div style="display: flex; gap: 20px;">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=VitorBalco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBalco&layout=compact&theme=dark"/>
 </div>
 
 ---
