@@ -21,7 +21,7 @@
 <div>
   <a href="https://github.com/vitorbalco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&langs_count=168theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&langs_count=168theme=dark"/>
 
 </div>
   <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/output/snake.svg" alt="Snake animation" />
