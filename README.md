@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&langs_count=168theme=dark"/>
 
 </div>
- <img src="https://raw.githubusercontent.com/vitorbalco/VitorBalco/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/output/snake.svg" alt="Snake animation" />
 
 </div>
  
