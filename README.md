@@ -8,9 +8,9 @@
   <img alt="Vitor-React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Vitor-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Vitor-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <!-- link para a seção de Python -->
-  <a href="#python">
+
+  <!-- Link para seu repositório de projetos Python -->
+  <a href="https://github.com/VitorBalco/sistema-livraria-python" target="_blank">
     <img alt="Vitor-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </div>
