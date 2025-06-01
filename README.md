@@ -10,7 +10,7 @@
   <img alt="Vitor-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <!-- Link para seu repositório de projetos Python -->
-  <a href="https://github.com/VitorBalco/sistema-livraria-python" target="_blank">
+  <a href="[https://github.com/VitorBalco/sistema-livraria-python](https://github.com/vitorbalco?tab=repositories&q=&type=&language=python&sort=)" target="_blank">
     <img alt="Vitor-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </div>
