@@ -9,9 +9,9 @@
   </a>
   <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
     <img alt="Vitor-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="https://github.com/vitorbalco?tab=repositories&language=css" target="_blank">
+  <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
     <img alt="Vitor-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://github.com/vitorbalco?tab=repositories&language=javascript" target="_blank">
+  <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
     <img alt="Vitor-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
 </div>
