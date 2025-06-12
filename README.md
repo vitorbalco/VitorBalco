@@ -12,6 +12,7 @@
   <!-- Link para seu repositório de projetos Python -->
   <a href="https://github.com/vitorbalco?tab=repositories&language=python" target="_blank">
     <img alt="Vitor-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Vitor-Html" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTML/python-original.svg">
   </a>
 </div>
 
