@@ -4,14 +4,15 @@
 ### 🚀 Tecnologias que uso
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="Vitor-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Vitor-React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Vitor-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Vitor-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <!-- Link para seu repositório de projetos Python -->
   <a href="https://github.com/vitorbalco?tab=repositories&language=python" target="_blank">
     <img alt="Vitor-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
+    <img alt="Vitor-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://github.com/vitorbalco?tab=repositories&language=css" target="_blank">
+    <img alt="Vitor-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://github.com/vitorbalco?tab=repositories&language=javascript" target="_blank">
+    <img alt="Vitor-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
 </div>
 
