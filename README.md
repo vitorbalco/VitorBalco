@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Vitor Balco | Tech Explorer & Problem Solver</h1>
-  <p><b>Systems Information Student @ Uninter | Networking & Cybersecurity Certified</b></p>
+  <p><b>Systems Information Student @ Uninter | Focus In Technology Soluctions </b></p>
   
   <p>
     <img src="https://img.shields.io/badge/Status-Buscando_Estágio-green?style=flat-square&logo=target" />
