@@ -15,7 +15,7 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
 - **Suporte Técnico & Infraestrutura**: Aplicando conhecimentos de redes (Cisco) e Linux.
 - **QA & Testing**: Foco em qualidade e processos estruturados.
 - **Desenvolvimento (Front-end / Back-end)**: Evoluindo em Java, Python e lógica de programação.
-- **Data Analytics**: Transformando dados brutos (SQL/Excel) em insights estratégicos.
+- **Data Analytics**: Transformando dados brutos (SQL/Excel) em insights estratégicos (em desenvolvimento).
 
 ---
 
