@@ -1,35 +1,31 @@
-## 👋 Olá, meu nome é Vitor e seja bem-vindo ao meu mundo de projetos!
----
-
-### 🚀 Tecnologias que uso
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/vitorbalco?tab=repositories&language=python" target="_blank">
-    <img alt="Vitor-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
-    <img alt="Vitor-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
-    <img alt="Vitor-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://github.com/vitorbalco?tab=repositories&language=html" target="_blank">
-    <img alt="Vitor-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
+<div align="center">
+  <h1>👋 Olá, eu sou o Vitor Balco</h1>
+  <p>Estudante de Sistemas de Informação | Backend | Cloud & Infra</p>
 </div>
 
 ---
 
-### 🌐 Redes Sociais
+### 💻 Linguagens de Programação
+<div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-  <a href="https://instagram.com/balcoo_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:balcovitor764@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/vitor-cardoso-balco-4a6a21359" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+### 🛠️ Tecnologias & Ambiente
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
