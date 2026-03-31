@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Vitor Cardoso Balco | Tech Explorer & Problem Solver</h1>
+  <h1>🚀 Vitor Cardoso Balco | Information Systems Student</h1>
   <p><b>Systems Information Student @ Uninter | Focus In Technology Soluctions </b></p>
   
   <p>
