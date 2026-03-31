@@ -14,7 +14,7 @@
 Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contribuir e evoluir nas seguintes frentes:
 - **Suporte Técnico & Infraestrutura**: Aplicando conhecimentos de redes (Cisco) e Linux.
 - **QA & Testing**: Foco em qualidade e processos estruturados.
-- **Desenvolvimento (Front-end / Back-end)**: Evoluindo em Java, Python e lógica de programação.
+- **Desenvolvimento (Front-end / Back-end)**: Evoluindo em Java, Python e lógica de programação. Alguns projetos em Html, Css e JavaScript - Ainda não documentados.
 - **Data Analytics**: Transformando dados brutos (SQL/Excel) em insights estratégicos (em desenvolvimento).
 
 ---
