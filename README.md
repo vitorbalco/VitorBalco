@@ -52,10 +52,10 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
 
 ### 🏗️ Em Desenvolvimento (Upcoming Project)
 
-* **Sistema de Inventário para Comércio Local** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-    * Projeto de extensão (UNINTER) focado na **Transformação Digital** de pequenos lojistas em Santo André.
-    * **Objetivo:** Desenvolver um backend robusto em Java integrado à infraestrutura AWS para otimizar a gestão de estoque local.
 
+**🚀 Projeto de Extensão: Transformação Digital para Comércio Local – Santo André (UNINTER)** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+
+  > **Objetivo:** Desenvolver uma arquitetura backend robusta (Java/Spring Boot) com persistência em banco de dados relacional e deploy em nuvem (AWS), focando em escalabilidade e alta disponibilidade para o setor varejista.
 
 
 ---
