@@ -62,11 +62,11 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
 
 ### 📊 GitHub Activity
 <div align="center">
-  <!-- Gráfico de Estatísticas Gerais (Com Cache Buster) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+  <!-- Estatísticas Gerais com Cache Buster -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&theme=tokyonight&count_private=true&v=20260513" />
   
-  <!-- Gráfico de Linguagens (Essencial para seu perfil de Dev Java/Python) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&theme=tokyonight&v=1" />
+  <!-- Top Linguagens com Cache Buster -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&theme=tokyonight&v=20260513" />
 </div>
 
 ### 🐍 Git Snake em Movimento
