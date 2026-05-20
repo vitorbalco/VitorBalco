@@ -62,11 +62,11 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
 
 ### 📊 GitHub Activity
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbalco&theme=tokyonight" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" alt="Minhas Estatísticas Técnicas" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbalco&theme=tokyonight" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=vitorbalco&layout=donut&theme=tokyonight&hide_border=false" alt="Gráfico de Pizza - Linguagens" height="210em" />
 </div>
 
 
