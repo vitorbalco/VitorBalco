@@ -66,7 +66,7 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
   
   <br><br>
   
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=vitorbalco&layout=donut&theme=tokyonight&hide_border=false" alt="Gráfico de Pizza - Linguagens" height="210em" />
+  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" alt="Gráfico de Pizza - Linguagens" width="60%">
 </div>
 
 
