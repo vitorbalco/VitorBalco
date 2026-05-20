@@ -63,7 +63,11 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
 ### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbalco&theme=tokyonight" alt="GitHub Streak" />
+ 
+<br><br>
+<img src="github-metrics.svg" alt="Minhas Estatísticas Técnicas" width="100%">
 </div>
+
 
 ### 🐍 Git Snake em Movimento
   Uma forma divertida de ver minhas contribuições!
