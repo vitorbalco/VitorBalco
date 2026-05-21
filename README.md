@@ -66,7 +66,7 @@ Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contr
   
   <br><br>
   
-  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" alt="Gráfico de Pizza - Linguagens" width="65%">
+  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" alt="Gráfico de Pizza - Linguagens" width="70%">
 </div>
 
 
