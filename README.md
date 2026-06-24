@@ -1,29 +1,38 @@
 <div align="center">
-  <h1>Salvee, Seja Bem-Vindo!! Eu sou o Vitor Balco</h1>
-  <p><b>Estudante de Sistemas de Informação na Uninter | Back-End Developer</b></p>
+  <!-- Título e Subtítulo Animados em Loop -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Vitor+Balco+%3C+%3E;Information+Systems+Student+at+Uninter;Back-End+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="mailto:balcovitor764@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/vitorcardosobalco">
+  <a href="https://linkedin.com/in/vitorbalco">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
 
-<hr>
+<!-- 1ª Linha Neon Grossa (10px) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" />
 
 ## 🤷🏽‍♂️ Sobre Mim
 
-*Sou desenvolvedor **Back-end** em formação, com experiência em estágio na área de desenvolvimento de software. Tenho foco em construir sistemas escaláveis, organizados e com boas práticas de engenharia de software. Atualmente estudo e desenvolvo projetos utilizando **Java, Python e JavaScript**, além de ter base em banco de dados e controle de versão com Git.*
+Olá! Sou o **Vitor Balco**, desenvolvedor com foco no ecossistema **Back-end**. Busco constantemente aplicar as melhores práticas de engenharia de software para construir sistemas modernos, organizados e altamente escaláveis.
+
+*   🚀 **Foco Atual:** Especializando no desenvolvimento de APIs robustas utilizando **Java (Spring Boot)** e **Python**.
+*   📊 **Dados & Infra:** Sólida base em modelagem de bancos de dados relacionais e não-relacionais (SQL/MySQL), além de experiência com ambiente **Linux** e containers **Docker**.
+*   ⚙️ **Metodologias:** Organização ágil de tarefas com Scrum/Trello e versionamento eficiente utilizando Git/GitHub.
 
 <br>
 
+<!-- 2ª Linha Neon Grossa (10px) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" />
+<br>
+
 <div align="center">
-  <!-- Título Simétrico -->
+  <!-- Título Simétrico com o Baby Sinclair -->
   <p>
-    <img src="https://github.com/user-attachments/assets/a3e48f2b-764a-41b6-9b5e-6d2bc2f5538c" width="55px" valign="middle" alt="🦖" /> 
+    <img src="https://github.com/user-attachments/assets/a3e48f2b-764a-41b6-9b5e-6d2bc2f5538c" width="60px" valign="middle" alt="🦖" /> 
     <kbd>Tecnologias em aprendizado</kbd>
   </p>
 
@@ -31,51 +40,55 @@
   <kbd>
     <kbd>Back-end</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   </kbd>
   
   <!-- Bloco Front-end -->
   <kbd>
     <kbd>Front-end</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   </kbd>
 
   <!-- Bloco Library/Frameworks -->
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" />
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" />
+    <img width="32px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
   </kbd>
 
-  <!-- Bloco Outros (Ícone do Docker corrigido aqui) -->
+  <!-- Bloco Outros -->
   <kbd>
     <kbd>Outros</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
 </div>
 
 <br><br>
+<!-- 3ª Linha Neon Grossa (10px) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" />
+<br>
 
-<!-- SEÇÃO DE ESTATÍSTICAS CORRIGIDA E 100% ESTÁVEL -->
+<!-- SEÇÃO DE ESTATÍSTICAS CENTRALIZADA -->
 <div align="center">
-  <!-- Gráfico de Status puxando direto do seu repositório estático (Sem passar por APIs instáveis) -->
-  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/stats-output/stats.svg" height="150" alt="stats graph" />
-  
-  <!-- Gráfico de Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&theme=dark" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=vitorbalco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
+<br>
+<!-- 4ª Linha Neon Grossa (10px) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="10px" />
 <br>
 
 <!-- CARD DO PACMAN CENTRALIZADO -->
