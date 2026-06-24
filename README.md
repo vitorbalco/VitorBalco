@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Título e Subtítulo Animados em Loop -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Vitor+Balco+%3C+%3E;Information+Systems+Student+at+Uninter;Back-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Vitor+Balco;Information+Systems+Student+at+@Uninter;Back-End+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
