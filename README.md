@@ -1,78 +1,86 @@
-<h1 align="center">Oii, eu sou o Vitor Balco</h1>
-<h3 align="center">Estudante de Sistemas de Informação na Uninter | Back-End Developer</h3>
-
-<p align="center">
-  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
-
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
-
-  <em>
-Sou desenvolvedor **Back-end* em formação, com experiência em estágio na área de desenvolvimento de software.  
-Tenho foco em construir sistemas escaláveis, organizados e com boas práticas de engenharia de software.
-
-Atualmente estudo e desenvolvo projetos utilizando **Java, Python e JavaScript**, além de ter base em banco de dados e controle de versão com Git.</p>
-  </em> 
-  <br>
-<div align= "center">
-  <img src=<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> Velociraptor Mode/> <b><i>Tecnologias em aprendizado</i></b> 
-</div>
-
-<br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  </kbd>
-  <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+<div align="center">
+  <h1>Salvee, Seja Bem-Vindo!! Eu sou o Vitor Balco</h1>
+  <p><b>Estudante de Sistemas de Informação na Uninter | Back-End Developer</b></p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/vitorbalco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
 
 <br>
+
+## 🤷🏽‍♂️ Sobre Mim
+
+*Sou desenvolvedor **Back-end** em formação, com experiência em estágio na área de desenvolvimento de software. Tenho foco em construir sistemas escaláveis, organizados e com boas práticas de engenharia de software. Atualmente estudo e desenvolvo projetos utilizando **Java, Python e JavaScript**, além de ter base em banco de dados e controle de versão com Git.*
+
 <br>
-<p align="center"> 
+
+<div align="center">
+  <!-- Título com o Dinossauro menor e alinhado ao texto -->
+  <h3>
+    <img src="URL_DO_SEU_GIF_DE_DINOSSAURO" width="40px" valign="middle" alt="🦖" /> Tecnologias em aprendizado
+  </h3>
+
+  <!-- Bloco Back-end (Apenas Java e Python) -->
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  </kbd>
+  
+  <!-- Bloco Front-end -->
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  </kbd>
+
+  <!-- Bloco Library/Frameworks -->
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+  </kbd>
+
+  <!-- Bloco Outros -->
+  <kbd>
+    <kbd>Outros</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+</div>
+
+<br>
+
+<!-- SEÇÃO DE ESTATÍSTICAS -->
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=vitorbalco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorbalco/vitorbalco/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorbalco/vitorbalco/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
+</div>
+
+<br><br>
