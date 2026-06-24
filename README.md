@@ -48,7 +48,6 @@
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" />
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
   </kbd>
