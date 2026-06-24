@@ -1,79 +1,78 @@
-<div align="center">
-  <h1>🚀 Vitor Cardoso Balco | Back-end Developer</h1>
-  <p><b>Systems Information Student @ Uninter  </b></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Buscando_Estágio-green?style=flat-square&logo=target" />
-    <img src="https://img.shields.io/badge/Localização-Santo_André,_SP-blue?style=flat-square&logo=googlemaps" />
-  </p>
-</div>
+<h1 align="center">Oii, eu sou o Vitor Balco</h1>
+<h3 align="center">Estudante de Sistemas de Informação na Uninter | Back-End Developer</h3>
 
----
+<p align="center">
+  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-### 🎯 Objetivo de Carreira e Estudos
-Atualmente busco minha primeira oportunidade de **Estágio** onde eu possa contribuir e evoluir na seguinte frente: 
-- Desenvolvimento Back-end (Preferencialmente Java).
-- Consolidar o domínio em Spring Boot para desenvolver APIs robustas e escaláveis, integrando funcionalidades avançadas do ecossistema Java à infraestrutura de alta disponibilidade e performance da AWS.
-- Aprimorar a aplicação de padrões de projeto (Design Patterns) e princípios de Clean Code, garantindo a manutenibilidade e a excelência técnica em sistemas de missão crítica.
-- Dominar práticas de CI/CD e conteinerização com Docker para automatizar ciclos de entrega, otimizando o fluxo de desenvolvimento desde o ambiente local até o deploy em nuvem.
----
 
-### 💻 Stack Tecnológica (Core Skills)
-
-#### **Linguagens & Dados**
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=postgresql&logoColor=white" />
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+Sou desenvolvedor **Back-end* em formação, com experiência em estágio na área de desenvolvimento de software.  
+Tenho foco em construir sistemas escaláveis, organizados e com boas práticas de engenharia de software.
+
+Atualmente estudo e desenvolvo projetos utilizando **Java, Python e JavaScript**, além de ter base em banco de dados e controle de versão com Git.</p>
+  </em> 
+  <br>
+<div align= "center">
+  <img src=<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> Velociraptor Mode/> <b><i>Tecnologias em aprendizado</i></b> 
 </div>
 
-#### **Ambiente & Cloud**
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<br>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
 
-### 📂 Projetos Acadêmicos e Práticos (CLI)
-
-* **[Bookstore-System](https://github.com/vitorbalco/Bookstore-System)** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-    * Sistema de gerenciamento de acervos via terminal.
-    * **Foco:** Implementação de lógica **CRUD** completa, tratamento de exceções e persistência de dados.
-    * **Destaque:** Demonstra domínio dos fundamentos de lógica de programação e estruturação de software.
-
-* **[TaskManagement](https://github.com/vitorbalco/TaskManagement)** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-    * Gerenciador de tarefas com suporte a múltiplos usuários.
-    * **Foco:** Integração com banco de dados **SQLite3** e lógica de **Autenticação (Auth)**.
-    * **Destaque:** Aplicação de conceitos de persistência relacional e segurança básica em aplicações CLI.
-
----
-
-### 🏗️ Em Desenvolvimento (Upcoming Project)
-
-
-**🚀 Projeto de Extensão: Transformação Digital para Comércio Local – Santo André (UNINTER)** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-
-  > **Objetivo:** Desenvolver uma arquitetura backend robusta (Java/Spring Boot) com persistência em banco de dados relacional e deploy em nuvem (AWS), focando em escalabilidade e alta disponibilidade para o setor varejista.
-
-
----
-
-### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbalco&theme=tokyonight" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" alt="Gráfico de Pizza - Linguagens" width="70%">
+  <a href="https://github.com/vitorbalco">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbalco&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbalco&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
 </div>
 
-
-### 🐍 Git Snake em Movimento
-  Uma forma divertida de ver minhas contribuições!
-
-<img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/output/snake.svg" alt="Snake animation" />
-
-        
-
+<br>
+<br>
+<p align="center"> 
