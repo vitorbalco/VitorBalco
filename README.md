@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:balcovitor764@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/vitorcardosobalco">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
