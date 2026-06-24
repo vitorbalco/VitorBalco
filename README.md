@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<br>
+<hr>
 
 ## 🤷🏽‍♂️ Sobre Mim
 
@@ -21,12 +21,13 @@
 <br>
 
 <div align="center">
-  <!-- Título com o Dinossauro menor e alinhado ao texto -->
-  <h3>
-    <img src="URL_DO_SEU_GIF_DE_DINOSSAURO" width="40px" valign="middle" alt="🦖" /> Tecnologias em aprendizado
-  </h3>
+  <!-- Título Simétrico -->
+  <p>
+    <img src="https://github.com/user-attachments/assets/a3e48f2b-764a-41b6-9b5e-6d2bc2f5538c" width="55px" valign="middle" alt="🦖" /> 
+    <kbd>Tecnologias em aprendizado</kbd>
+  </p>
 
-  <!-- Bloco Back-end (Apenas Java e Python) -->
+  <!-- Bloco Back-end -->
   <kbd>
     <kbd>Back-end</kbd>
     <br><br>
@@ -52,7 +53,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
   </kbd>
 
-  <!-- Bloco Outros -->
+  <!-- Bloco Outros (Ícone do Docker corrigido aqui) -->
   <kbd>
     <kbd>Outros</kbd>
     <br><br>
@@ -65,22 +66,26 @@
   </kbd>
 </div>
 
-<br>
+<br><br>
 
-<!-- SEÇÃO DE ESTATÍSTICAS -->
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+<!-- SEÇÃO DE ESTATÍSTICAS CORRIGIDA E 100% ESTÁVEL -->
+<div align="center">
+  <!-- Gráfico de Status puxando direto do seu repositório estático (Sem passar por APIs instáveis) -->
+  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/stats-output/stats.svg" height="150" alt="stats graph" />
+  
+  <!-- Gráfico de Streak -->
   <img src="https://streak-stats.demolab.com?user=vitorbalco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 <br>
 
+<!-- CARD DO PACMAN CENTRALIZADO -->
 <div align="center">
-  <picture data-importer="pacman">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorbalco/vitorbalco/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorbalco/vitorbalco/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
 </div>
 
-<br><br>
+<br>
