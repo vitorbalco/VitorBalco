@@ -32,7 +32,7 @@ Olá! Sou o **Vitor Balco**, desenvolvedor com foco no ecossistema **Back-end**.
 <div align="center">
   <!-- Título Simétrico com o Baby Sinclair -->
   <p>
-    <img src="https://github.com/user-attachments/assets/a3e48f2b-764a-41b6-9b5e-6d2bc2f5538c" width="60px" valign="middle" alt="🦖" /> 
+    <img src="https://github.com/user-attachments/assets/a3e48f2b-764a-41b6-9b5e-6d2bc2f5538c" width="80px" valign="middle" alt="🦖" /> 
     <kbd>TECNOLOGIAS EM APRENDIZADO</kbd>
   </p>
 
