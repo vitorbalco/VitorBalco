@@ -82,8 +82,8 @@ Olá! Sou o **Vitor Balco**, desenvolvedor com foco no ecossistema **Back-end**.
 
 <!-- SEÇÃO DE ESTATÍSTICAS CENTRALIZADA -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=vitorbalco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/vitorbalco/vitorbalco/main/github-metrics.svg" height="300" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=vitorbalco&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="300" alt="streak graph" />
 </div>
 
 <br>
