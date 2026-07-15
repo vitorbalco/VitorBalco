@@ -20,7 +20,7 @@
 Olá! Sou o **Vitor Balco**, desenvolvedor com foco no ecossistema **Back-end**. Busco constantemente aplicar as melhores práticas de engenharia de software para construir sistemas modernos, organizados e altamente escaláveis.
 
 *   🚀 **Foco Atual:** Especializando no desenvolvimento de APIs robustas utilizando **Java (Spring Boot)** e **Python**.
-*   📊 **Dados & Infra:** Sólida base em modelagem de bancos de dados relacionais e não-relacionais (SQL/MySQL), além de experiência com ambiente **Linux** e containers **Docker**.
+*   📊 **Dados & Infra:** Sólida base em modelagem de bancos de dados relacionais e não-relacionais (SQL/MySQL), além de experiência com ambiente **Linux** e Instâncias **AWS EC2**.
 *   ⚙️ **Metodologias:** Organização ágil de tarefas com Scrum/Trello e versionamento eficiente utilizando Git/GitHub.
 
 <br>
